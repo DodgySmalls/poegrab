@@ -9,13 +9,13 @@ itemlists = [None]*100
 #I'm especially neglegent of caster weapons since I include all rare wands/sceptres in my personal filter
 bestinslot = ["Thicket Bow", "Ranger Bow", "Assassin Bow", "Spine Bow", "Imperial Bow", "Harbinger Bow", "Maraketh Bow",
 			   "Hellion's Paw", "Vaal Claw", "Imperial Claw", "Gemini Claw",
-			   "Ambusher", "Imperial Skeen", "Sai",
-			   "Seige Axe", "Infernal Axe", "Runic Hatchet", "Vaal Hatchet",
+			   "Ambusher", "Imperial Skean", "Sai",
+			   "Siege Axe", "Infernal Axe", "Runic Hatchet", "Vaal Hatchet",
 			   "Behemoth Mace",
 			   "Eternal Sword", "Legion Sword", "Vaal Blade", "Tiger Hook",
 			   "Sambar Sceptre",
 			   "Lathi", "Eclipse Staff",  #a note that maelstrom staff is not grabbed by my script, "Maelstr" does match the basetype uniquely
-			   "Spiralled Foil", "Jewelled Foil", "Dragoon Sword", "Pecoraro",
+			   "Spiraled Foil", "Jewelled Foil", "Dragoon Sword", "Pecoraro",
 			   "Vaal Axe", "Despot Axe", "Void Axe", "Ezomyte Axe", "Talon Axe",
 			   "Piledriver", "Meatgrinder","Coronal Maul",
 			   "Lion Sword","Infernal Sword","Exquisite Blade", 
@@ -23,7 +23,7 @@ bestinslot = ["Thicket Bow", "Ranger Bow", "Assassin Bow", "Spine Bow", "Imperia
 			   "Sacrificial Garb", "Carnal Armour", "Saintly Chainmail", "Assassin's Garb", "Glorious Plate", "Saint's Hauberk", "Sadist Garb", "Vaal Regalia",
 			   "Slink Boots", "Murder Boots", "Titan Greaves", "Sorcerer Boots", "Crusader Boots",
 			   "Slink Gloves", "Titan Gauntlets", "Sorcerer Gloves", "Dragonscale Gauntlets", "Murder Mitts",
-			   "Lion Pelt", "Hubris Circlet", "Eternal Burgeonet", "Praetor Crown", "Deicide Mask", "Royal Burgeonet", "Ezomyte Burgeonet", "Silken Hood",
+			   "Lion Pelt", "Hubris Circlet", "Eternal Burgonet", "Praetor Crown", "Deicide Mask", "Royal Burgonet", "Ezomyte Burgonet", "Silken Hood",
 			   "Colossal Tower Shield", "Supreme Spiked Shield", "Imperial Buckler", "Titanium Spirit Shield", "Harmonic Spirit Shield", "Archon Kite Shield"]
 
 #options to grab a page's source and push it to stdout, leading ' ' is necessary
